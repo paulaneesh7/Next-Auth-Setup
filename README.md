@@ -1,5 +1,5 @@
 ## Next Auth Setup
 
-Complete Setup for Next Auth for GitHub provider with ShadCN
+Complete Auth Setup with Next Auth for GitHub and Google provider with ShadCN
 
 Cloudflare deployment: https://next-auth-setup.pages.dev
